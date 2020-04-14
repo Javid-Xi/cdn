@@ -1938,7 +1938,7 @@ function loadBotui() {
         if (mashiro_global.variables.has_bot_ui) {
             bot_ui_ini()
         } else {
-            $.getScript('https://javid.cn/wp-content/uploads/resource/js/botui.js',
+            $.getScript('/wp-content/uploads/resource/js/botui.js',
             //修改回复配置
             function() {
                 bot_ui_ini();
