@@ -66,7 +66,7 @@ function bot_ui_ini() {
         end = function () {
             botui.message.add({
                 delay: 1500,
-                content: "![...](https://cdn.jsdelivr.net/gh/Javid-Xi/cdn@2.2.0/img/material/rp-dora1.jpg)"
+                content: "![...](https://cdn.jsdelivr.net/gh/Javid-Xi/cdn@1.4.1/img/material/rp-dora1.jpg)"
             })
         },
         secondpart = function () {
