@@ -3505,7 +3505,7 @@ a.page-numbers {
 	transform-origin: 0 0;
 	pointer-events: none;
 	transition: all .25s;
-	color:#6e6c78;
+	color:#808080;
 	font-weight:bold;
 	font-family: 'Merriweather Sans', Helvetica, Tahoma, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft Yahei', 'WenQuanYi Micro Hei', sans-serif;
 }
